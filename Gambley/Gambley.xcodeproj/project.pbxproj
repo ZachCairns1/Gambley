@@ -54,8 +54,8 @@
 			isa = PBXGroup;
 			children = (
 				777C983229203DBB00DA3AE4 /* GambleyViewModel.swift */,
-				77288CF7291DCC5500D6AA08 /* GambleyApp.swift */,
 				77288CF9291DCC5500D6AA08 /* ContentView.swift */,
+				77288CF7291DCC5500D6AA08 /* GambleyApp.swift */,
 				77288CFB291DCC5E00D6AA08 /* Assets.xcassets */,
 				77288CFD291DCC5E00D6AA08 /* Preview Content */,
 			);
